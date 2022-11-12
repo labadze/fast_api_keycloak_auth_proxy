@@ -73,7 +73,9 @@ Note you need postgres database server running (You can use docker or local serv
 
 ## Run front end
 
-You need just node.js and npm installed so clone repository and run npm install, then npm start.
+You need just node.js and npm installed so clone repository: 
+https://github.com/labadze/proxy-auth-react-app
+and run npm install, then npm start.
 
 You're ready to go do not forget to create user in keycloak to pass authorization process.
 
