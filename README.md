@@ -32,8 +32,8 @@ This is Fast API Based IDP
  
 Apply following settings (Save name somewhere)
 
-    - General: Enabled, OpenID Endpoint Configuration
-    - Login: User registration enabled
+   - General: Enabled, OpenID Endpoint Configuration
+   - Login: User registration enabled
     
 ### Create a new client. 
  
