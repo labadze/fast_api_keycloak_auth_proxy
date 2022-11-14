@@ -69,7 +69,7 @@ Apply following settings (Save name somewhere)
 
 Just clone repository: 
 
-`https://github.com/labadze/fastapi_auth_proxy_middleware`
+`https://github.com/labadze/fastapi_proxy_auth_middleware`
 
 and place values above follow README.md there to run database migrations and start application successfully.
 Note you need postgres database server running (You can use docker or local server installation).
